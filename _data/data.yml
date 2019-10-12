@@ -163,23 +163,21 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: # 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Data Analysis
+        level: 80%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Extract, Transform & Load (ETL & Data Preprocessing)
+        level: 90%
 
       - name: Business Intelligence (BI)
-        level: 85%
+        level: 80%
 
       - name: SQL & Relational DataBases
-        level: 60%
+        level: 90%
+
+      - name: Python
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
