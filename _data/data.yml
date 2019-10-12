@@ -164,7 +164,7 @@ skills:
 
     toolset:
       - name: Python & Django
-        level: 98%
+        level: # 98%
 
       - name: Javascript & jQuery
         level: 98%
@@ -175,10 +175,10 @@ skills:
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Business Intelligence (BI)
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: SQL & Relational DataBases
         level: 60%
 
 footer: >
