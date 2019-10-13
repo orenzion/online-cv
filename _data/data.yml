@@ -91,14 +91,13 @@ experiences:
       time: July 2018 - December 2018
       company: Abraham Hostel, Tel-Aviv
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        worked on different projects where I was using tools like SQL, Python & Excel.
+        Manipulating, analyzing & visualizing data coming from different departments of the organisation
+        to help managers make better decisions.
+        
+          - Python (Pandas, Numpy, SKLearn, Matplotlib, Seaborn)
+          - SQL
+          - Excel
 
     - role: Student Position
       time: July 2017 - july 2018
