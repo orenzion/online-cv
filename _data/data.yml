@@ -74,18 +74,15 @@ experiences:
       time: 2019 - Present
       company: Nogamy Tech, Tel-Aviv
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Full Stack BI Developer
+        Developing ETL pipelines, reports & dashboards, DWH models
 
-          - Bullet point
-          - Bullet point
+          - SQL Server
+          - PL/SQL
+          - Informatica
+          - Sisense
+          - Power BI
+          - Excel
 
     - role: Data Analyst
       time: July 2018 - December 2018
@@ -94,7 +91,7 @@ experiences:
         worked on different projects where I was using tools like SQL, Python & Excel.
         Manipulating, analyzing & visualizing data coming from different departments of the organisation
         to help managers make better decisions.
-        
+
           - Python (Pandas, Numpy, SKLearn, Matplotlib, Seaborn)
           - SQL
           - Excel
