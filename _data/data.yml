@@ -53,11 +53,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-  
+      Hi :)
 
-      Second paragraph if required.
+      I am Oren, from Tel-Aviv
+      I have many hobbies and interested in many subjects,
+      Accualy I think I am a very curious person and almost everything excites me.
+
+      That's why I decided to do data science - this is my way to learn and study about different subjects.
+      through analyzing datasets related to my interest, data storytelling and revealing insights I dive into the data itself
+      and earn new knowledge about the different worlds I investigate.  
 
 education:
     - degree: BSc in Computer Science
