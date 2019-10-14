@@ -169,7 +169,7 @@ skills:
 
     toolset:
 
-      - name: Data Analysis
+      - name: Data Analysis & Data Visualization
         level: 80%
 
       - name: Extract, Transform & Load (ETL & Data Preprocessing)
