@@ -63,11 +63,22 @@ career-profile:
 education:
     - degree: BSc in Computer Science
       university: The Academic College Of Tel-Aviv Jaffa
-      time: 2015 - 2019
+      time: 2015 - 2018
       details: |
-        Focused on Mathematics, Statistics, Machine Learning & Data Mining
+        
 
 experiences:
+    - role: Data Scientist
+      time: 2018 - Present
+      company: Self Employed
+      details: |
+        Constantly learning, investigating, reading & working on projects due to my own interest. 
+
+          - Web Scraping, Data gathering & ETL processes
+          - Exploratory Data Analysis & Data Visualization 
+          - Feature Extraction, Selection & Data Preprocessing
+          - Statistical Modeling & Model Evaluation
+
     - role: BI Developer
       time: 2019 - Present
       company: Nogamy Tech, Tel-Aviv
