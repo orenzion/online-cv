@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Oren Zion
-    tagline: Junior Data Scientist
+    tagline: #Junior Data Scientist
     avatar: linkedinimg.jpg # profile.png  place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -80,7 +80,7 @@ experiences:
           - Statistical Modeling & Model Evaluation
 
     - role: BI Developer
-      time: 2019 - Present
+      time: 2019 (8 months)
       company: Nogamy Tech, Tel-Aviv
       details: |
         Full Stack BI Developer
