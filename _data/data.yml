@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: # hello@webjeda.com
     phone: # 012 345 6789
-    website: orenzion.github.io #do not add http://
+    website: #orenzion.github.io #do not add http://
     linkedin: oren-zion-059716115
     github: orenzion
     gitlab:
@@ -39,7 +39,7 @@ sidebar:
         link:
 
       - item: Travel & Tourism
-        link:
+        link: https://www.tiportrip.com/
 
       - item: Enviroment & Nature
         link:
@@ -98,7 +98,7 @@ experiences:
       company: Abraham Hostel, Tel-Aviv
       details: |
         worked on different projects where I was using tools like SQL, Python & Excel.
-        Manipulating, analyzing & visualizing data coming from different departments of the organisation
+        Manipulating, analyzing & visualizing data coming from different sources & departments of the organisation
         to help managers make better decisions.
 
           - Python (Pandas, Numpy, SKLearn, Matplotlib, Seaborn)
