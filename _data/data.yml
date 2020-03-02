@@ -39,7 +39,7 @@ sidebar:
         link:
 
       - item: Travel & Tourism
-        link: https://www.tiportrip.com/
+        link: 
 
       - item: Enviroment & Nature
         link:
@@ -65,8 +65,8 @@ education:
         
 
 experiences:
-    - role: Data Scientist
-      time: 2018 - Present
+    - role: Junior Data Scientist
+      time: 2019 - Present
       company: Self Employed
       details: |
         Constantly learning, reading & working on projects due to my own interest. 
@@ -75,6 +75,18 @@ experiences:
           - Exploratory Data Analysis & Data Visualization 
           - Feature Extraction, Selection & Data Preprocessing
           - Statistical Modeling & Model Evaluation
+
+    - role: Founder & Owner
+      time: 2019 - Present
+      company: TipOrTrip.com
+      details: |
+        A Website I built & manage all by myself in order to learn about web development, SEO,
+        digital marketing, affiliate marketing, web analytics and more.
+
+          - SEO Best Practices, Research Analysis, Speed Optimization
+          - Web Development using Wordpress
+          - Digital Marketing & Social Media Managment
+          - Affiliate Marketing
 
     - role: BI Developer
       time: 2019 (8 months)
