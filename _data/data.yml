@@ -55,10 +55,7 @@ career-profile:
     summary: |
       Hi :)
 
-      I am Oren, from Tel-Aviv. I am a curious, open minded person, who likes to learn & explore all the time.
-
-      That's why I like data science - it is a great way to learn & explore.
-      With data science you can, solve complex problems while learning each time on a new field through the data related to it. 
+      I am Oren, from Tel-Aviv. I am a curious, open minded person, who's constantly learning and exploring new things.
       
 education:
     - degree: BSc in Computer Science
@@ -72,7 +69,7 @@ experiences:
       time: 2018 - Present
       company: Self Employed
       details: |
-        Constantly learning, investigating, reading & working on projects due to my own interest. 
+        Constantly learning, reading & working on projects due to my own interest. 
 
           - Web Scraping, Data gathering & ETL processes
           - Exploratory Data Analysis & Data Visualization 
@@ -173,7 +170,10 @@ skills:
         level: 80%
 
       - name: Extract, Transform & Load (ETL & Data Preprocessing)
-        level: 90%
+        level: 80%
+
+      - name: Machine Learning Methodologies
+        level: 70%
 
       - name: Business Intelligence (BI)
         level: 80%
@@ -181,8 +181,23 @@ skills:
       - name: SQL & Relational DataBases
         level: 90%
 
-      - name: Python
-        level: 70%
+      - name: Python for Data Science
+        level: 50%
+
+      - name: Wordpress Web Development
+        level: 95%
+
+      - name: Google Web Master Tools - Google Analytics, Google Search Console and more
+        level: 95%
+      
+      - name: SEO & Market Research
+        level: 95%
+
+      - name: Affiliate Marketing
+        level: 95%  
+
+      - name: Digital Marketing
+        level: 60%  
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
