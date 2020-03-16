@@ -93,14 +93,14 @@ experiences:
       company: Nogamy Tech, Tel-Aviv
       details: |
         Full Stack BI Developer
-        Developing ETL pipelines, reports & dashboards, DWH models
+        Developing ETL pipelines, DWH models, reports & dashboards 
 
-          - SQL Server
-          - Oracle SQL
-          - Informatica
-          - Sisense
-          - Power BI
-          - Excel
+          - Developed ETL pipelines and maintained complex dataflows in a DWH environment for a big insurance company using:
+            Informatica, Oracle SQL database, Netteza DB and Control-M
+
+          - Responsible for the whole Front-End development and DWH quality assurance for a big and complex BI call-center solution.
+            Developed the dashboards, reports and semantic DWH layer using Sisense.
+            DWH testing with SQL-Server. 
 
     - role: Data Analyst
       time: July 2018 - December 2018
@@ -125,9 +125,9 @@ experiences:
           - Team Work
           - Customer Service
 
- projects:
-     title: Projects
-     intro: >
+# projects:
+#     title: Projects
+#     intro: >
 #       You can list your side projects or open source libraries in this
 #       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
