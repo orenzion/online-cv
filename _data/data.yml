@@ -76,18 +76,6 @@ experiences:
           - Feature Extraction, Selection & Data Preprocessing
           - Statistical Modeling & Model Evaluation
 
-    - role: Founder & Owner
-      time: 2019 - Present
-      company: TipOrTrip.com
-      details: |
-        A Website I built & manage all by myself in order to learn about web development, SEO,
-        digital marketing, affiliate marketing, web analytics and more.
-
-          - SEO Best Practices, Research Analysis, Speed Optimization
-          - Web Development using Wordpress
-          - Digital Marketing & Social Media Managment
-          - Affiliate Marketing
-
     - role: BI Developer
       time: 2019 (8 months)
       company: Nogamy Tech, Tel-Aviv
@@ -100,7 +88,19 @@ experiences:
 
           - Responsible for the whole Front-End development and DWH quality assurance for a big and complex BI call-center solution.
             Developed the dashboards, reports and semantic DWH layer using Sisense.
-            DWH testing with SQL-Server. 
+            DWH testing with SQL-Server.
+
+    - role: Founder & Owner
+      time: 2019 - Present
+      company: TipOrTrip.com
+      details: |
+        A Website I built & manage all by myself in order to learn about web development, SEO,
+        digital marketing, affiliate marketing, web analytics and more.
+
+          - SEO Best Practices, Research Analysis, Speed Optimization
+          - Web Development using Wordpress
+          - Digital Marketing & Social Media Managment
+          - Affiliate Marketing      
 
     - role: Data Analyst
       time: July 2018 - December 2018
