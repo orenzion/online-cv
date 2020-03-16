@@ -96,7 +96,7 @@ experiences:
         Developing ETL pipelines, reports & dashboards, DWH models
 
           - SQL Server
-          - PL/SQL
+          - Oracle SQL
           - Informatica
           - Sisense
           - Power BI
@@ -125,9 +125,9 @@ experiences:
           - Team Work
           - Customer Service
 
-# projects:
-#     title: Projects
-#     intro: >
+ projects:
+     title: Projects
+     intro: >
 #       You can list your side projects or open source libraries in this
 #       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
@@ -194,7 +194,7 @@ skills:
         level: 90%
 
       - name: Python for Data Science
-        level: 50%
+        level: 60%
 
       - name: Wordpress Web Development
         level: 95%
